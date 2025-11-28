@@ -8,7 +8,7 @@
 - **Augmentation**: Rotation, zoom, flip, brightness variation
 
 ## Edge Impulse Pipeline
-Input (96x96 RGB) → Image Processing → Transfer Learning (MobileNetV2) → Classification Output
+Input (96x96 RGB) → Image Processing → Transfer Learning (MobileNetV1) → Classification Output
 
 
 ## Training Configuration
@@ -21,7 +21,7 @@ Input (96x96 RGB) → Image Processing → Transfer Learning (MobileNetV2) → C
 - **Loss Function**: Categorical Crossentropy
 
 ## Training Results
-- **Final Training Accuracy**: 91.2%
+- **Final Training Accuracy**: 91.3%
 - **Validation Accuracy**: 90.15%
 - **Training Time**: ~45 minutes
 
