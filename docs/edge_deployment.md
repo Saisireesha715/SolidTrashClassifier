@@ -35,3 +35,30 @@ MainActivity → CameraController → ImageAnalysis → TFLite Interpreter → U
 
 ### Challenge: Cross-device Compatibility
 **Solution**: Standard Android APIs with fallback handling
+
+## Hardware Setup
+
+## Required Hardware
+- **Android Smartphone** with camera (API 21+)
+- **USB Cable** for development and debugging
+- **Computer** for Android Studio development
+
+## Minimum Specifications
+- **Android Version**: 5.0 (API 21) or higher
+- **RAM**: 2GB minimum, 4GB recommended
+- **Storage**: 100MB free space
+- **Camera**: Any rear-facing camera
+
+## Development Environment
+- **IDE**: Android Studio Arctic Fox or later
+- **SDK**: Android SDK API 21-34
+- **Build Tools**: Gradle with Kotlin support
+- **Emulator**: Android Virtual Device (optional)
+
+## Setup Steps
+1. **Enable Developer Options** on Android device
+2. **Enable USB Debugging** in developer options
+3. **Install Android Studio** with required SDKs
+4. **Connect Device** via USB
+5. **Verify Connection** through ADB devices
+
