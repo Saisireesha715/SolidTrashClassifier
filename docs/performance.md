@@ -5,7 +5,7 @@
 |--------|-------|-------------|
 | **Training Accuracy** | 91.3% | Accuracy on training dataset |
 | **Test Accuracy** | 90.15% | Accuracy on unseen test data |
-| **Precision** | 85.7% | True positive rate |
+| **Precision** | 92% | True positive rate |
 | **Recall** | 91% | Sensitivity metric |
 | **F1-Score** | 91% | Balance of precision and recall |
 
