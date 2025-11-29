@@ -33,7 +33,7 @@ This app uses machine learning to classify different types of trash in real-time
 4. Grant camera permissions when prompted
 
 ## 🎬 Demo
-[Add demo video link here]
+https://drive.google.com/file/d/1ZSqA6ZRPRtp9gBkGC03eKWqE3RmIt4yg/view?usp=sharing
 
 ## 📈 Model Performance
 - **Accuracy**: 91.3%
