@@ -3,7 +3,7 @@
 ## Dataset Preparation
 - **Source**: Recyclable Solid Waste Dataset from Kaggle
 - **Classes**: 3 categories (glass, metal,plastic)
-- **Total Images**: 2,500+ across multiple backgrounds
+- **Total Images**: 1427 across multiple backgrounds
 - **Split**: 80% training, 20% testing
 - **Augmentation**: Rotation, zoom, flip, brightness variation
 
