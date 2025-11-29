@@ -57,7 +57,7 @@ This application addresses the growing need for automated waste sorting, which c
 ## 🔗 Links
 - [Edge Impulse Project](https://studio.edgeimpulse.com/public/826106/live)
 - [Dataset Source](https://www.kaggle.com/datasets/hseyinsaidkoca/recyclable-solid-waste-dataset-on-5-background-co)
-- [Hackathon Submission]https://www.hackerearth.com/edge-impulse
+- [Hackathon Submission](https://www.hackerearth.com/edge-impulse)
 
 ## 👥 Team
 Sai sireesha Tripurari
