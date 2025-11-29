@@ -39,7 +39,7 @@ https://drive.google.com/file/d/1ZSqA6ZRPRtp9gBkGC03eKWqE3RmIt4yg/view?usp=shari
 - **Accuracy**: 91.3%
 - **Latency**: 3ms
 - **Peak RAM usage**:134.2K
-- **Flash usage**:134.2K
+- **Flash usage**:295.8K
 - **Classes**: 3 recyclable categories
 
 ## 🔬 Model Development
